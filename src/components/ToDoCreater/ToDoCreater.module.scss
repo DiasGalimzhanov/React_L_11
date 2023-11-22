@@ -1,0 +1,26 @@
+.creater {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    background-color: white;
+    margin: auto;
+    border-radius: 0.4rem;
+    max-width: 40rem;
+    margin-top: 1.5rem;
+    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+
+    .imput {
+        margin-top: 1.5rem;
+        width: 100%;
+        background-color: hsla(0, 0, 90%, 1);
+        padding: 0.5rem;
+        border-radius: 0.4rem;
+    }
+
+    .button {
+        margin-top: 1.5rem;
+        margin-left: auto;
+        
+    }
+}
